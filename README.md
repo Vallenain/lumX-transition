@@ -3,22 +3,22 @@ Lumx-transition
 
 Easy transition for Angular Ui-router.
 
-##Documentation
+## Documentation
 
 [Documentation site](http://lumapps.github.io/lumX-transition/)
 
-###Install with Bower
+## Install with Bower
 
 ```
 bower install lumx-transition
 ```
 
-##Usage
+## Usage
 
 1. Include `lxTransition` as a dependency in your Angular app.
 
     ```js
-    angular.module('app', ['lxTransition'])
+    angular.module('app', ['lxTransition']);
     ```
 
 2. Include the supplied CSS file.
